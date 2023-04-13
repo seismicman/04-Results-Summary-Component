@@ -18,13 +18,13 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Screenshot
 
-![](./src/assets/images/screenshot1.jpg)
+![](./public/assets/images/screenshot1.jpg)
 
-![](./src/assets/images/screenshot2.jpg)
+![](./public/assets/images/screenshot2.jpg)
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/03-NFT-preview-card-component/](https://seismicman.github.io/03-NFT-preview-card-component/)
+Solution URL: [https://seismicman.github.io/04-Results-Summary-Component/](https://seismicman.github.io/04-Results-Summary-Component/)
 
 ## My process
 
