@@ -24,7 +24,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-Solution URL: [https://seismicman.github.io/06-Order-Summary-Component/](https://seismicman.github.io/06-Order-Summary-Component/)
+Solution URL: [https://seismicman.github.io/04-Results-Summary-Component/](https://seismicman.github.io/04-Results-Summary-Component/)
 
 ## My process
 
